@@ -1,0 +1,3 @@
+pandas
+matplotlib
+wordcloud # Optional, only needed if you want to generate word clouds
